@@ -1,0 +1,32 @@
+Tutorial: Adding an AWS Glue crawler
+https://docs.aws.amazon.com/glue/latest/ug/tutorial-add-crawler.html
+
+Tutorial: Using an Amazon S3 trigger to invoke a Lambda function
+https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
+
+Amazon S3 Event Notifications
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html
+
+Check if S3 file has been modified
+https://stackoverflow.com/questions/38407784/check-if-s3-file-has-been-modified
+
+How To Write A File Or Data To An S3 Object Using Boto3
+https://www.stackvidhya.com/write-a-file-to-s3-using-boto3/
+
+Read data from a CSV file in S3 bucket and store it in a dictionary in python
+https://stackoverflow.com/questions/61793998/read-data-from-a-csv-file-in-s3-bucket-and-store-it-in-a-dictionary-in-python
+
+Event based trigger of AWS Glue Crawler after a file is uploaded into a S3 Bucket?
+https://stackoverflow.com/questions/48828194/event-based-trigger-of-aws-glue-crawler-after-a-file-is-uploaded-into-a-s3-bucke
+
+Crawler API
+https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-crawler-crawling.html
+
+S3 Events to Lambda vs S3 Events to SQS/SNS to Lambda
+https://aws.plainenglish.io/system-design-s3-events-to-lambda-vs-s3-events-to-sqs-sns-to-lambda-2d41477d1cc9
+
+AWS SQS hidden polling costs
+https://levelup.gitconnected.com/aws-sqs-hidden-polling-costs-c263470329c9
+
+Build and automate a serverless data lake using an AWS Glue trigger for the Data Catalog and ETL jobs
+https://aws.amazon.com/blogs/big-data/build-and-automate-a-serverless-data-lake-using-an-aws-glue-trigger-for-the-data-catalog-and-etl-jobs/
